@@ -1,0 +1,10 @@
+{
+  "title": "Metro Disruption Response",
+  "subtitle": "Incident timeline, station status and shuttle coordination",
+  "online": "Online",
+  "offline": "Degraded",
+  "timeline": "Response timeline",
+  "stations": "Station status",
+  "shuttles": "Shuttle plans",
+  "confirm": "Approvals"
+}
